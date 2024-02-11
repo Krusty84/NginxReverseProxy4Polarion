@@ -5,6 +5,7 @@ Example configuration of Reverse Proxy based on Nginx for Polarion. This can be 
 After setting up Nginx, you need to make the following changes to **...\polarion\configuration\polarion.properties** :
 
 ** ... ... ...**
+
 #com.siemens.polarion.previewgenerator.external.param3=$in
 #com.siemens.polarion.previewgenerator.external.param4=-out
 #com.siemens.polarion.previewgenerator.external.param5=$out
